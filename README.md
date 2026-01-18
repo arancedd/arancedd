@@ -14,7 +14,7 @@
 - C, Python, Java
 
 **Tools:**
-- Git, Linux, WIndows
+- Git, Linux, Windows
 
 **Languages:**
 - Italian (native), English (B2)
@@ -41,7 +41,7 @@ Here are some of my GitHub repositories:
 ---
 --->
 
-© 2025 arancedd – Built with ❤️ on GitHub
+© 2026 arancedd – Built with ❤️ on GitHub
 <!--
 **arancedd/arancedd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
